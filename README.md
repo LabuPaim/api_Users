@@ -30,6 +30,11 @@ $ nest new back_model-base
 # Criação das dependências do NestJs onde o nome do projeto é "back_model-base"
 ```
 
+```bash
+$ nest g resource
+# Criação de estrutura de CRUD
+```
+
 ## Instalação
 
 ```bash
