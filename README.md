@@ -35,6 +35,11 @@ $ nest g resource
 # Criação de estrutura de CRUD
 ```
 
+```bash
+$ yarn add @nestjs/mongoose mongoose
+# Dependência do MongoDB para TypeScript
+```
+
 ## Instalação
 
 ```bash
